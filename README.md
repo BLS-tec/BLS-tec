@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Balogun Shittu@BLS-tec
+- 👋 Hi, I’m Balogun Shittu
 - 👀 I’m interested in data science and machine learning
 - 🌱 I’m currently learning data analytics and python
 - 💞️ I’m looking to collaborate on projects
-- 📫 How to reach me @bls-tec
+- 📫 How to reach me @Shittu_balogun
   
 
 
